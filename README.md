@@ -1,6 +1,6 @@
 # Corporate-Pulse-How-Performance-Drives-Market-Moves--Brendan-Wilcox-BA780-A06
 
-**Overview***
+**Overview**
 
 With an emphasis on identifying correlations between financial statement variables and stock performance/return, this study attempts to assess whether KPIs have historically been linked to a company's future stock performance. In general, investors are frequently advised that they "cannot beat the market," but this project will offer insights to help them overcome many of these obstacles by helping them make better investment selections based on performance and its associated quantitative indicators.
 

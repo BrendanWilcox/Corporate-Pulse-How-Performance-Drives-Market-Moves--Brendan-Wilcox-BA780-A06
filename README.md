@@ -1,6 +1,6 @@
 # Corporate-Pulse-How-Performance-Drives-Market-Moves--Brendan-Wilcox-BA780-A06
 
-**Contributors**
+**Teammates**
 
 * Rebecca Bubis
 * Nilay Jaini
